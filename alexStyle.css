@@ -1,0 +1,50 @@
+.header{
+border: solid 10px red;
+text-align: center;
+background-color: red;
+transition: 5s; 
+border-radius: 100px;
+}
+
+.header:hover{
+ background-color: chartreuse;  
+
+}
+
+.mainParagraph{
+    border: solid 5px cyan;
+    margin-top: 100px; 
+    text-align: center;
+    transition: 5s;
+}
+
+
+.mainParagraph:hover{
+    font-size: xx-large;
+    border-radius: 100px;
+}
+
+.secondParagraph{
+    border: dotted 9px gold;
+    text-align: center;
+    border-radius: 100px;
+    margin-top: 20px;
+} 
+
+.secondParagraph:hover{
+  margin-top: 150000px; 
+  transition: 70s; 
+}
+
+button{
+    width: 500px;
+    height: 100px;
+    font-size: xx-large;
+}
+.clicks{
+text-align: center;
+border: chocolate solid 10px;
+margin-top: 90px;
+padding: 50px;
+margin-bottom: 70px;
+}
